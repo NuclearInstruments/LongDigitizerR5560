@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (OscDual_LIB.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OscDual_EXAMPLE.vcxproj -> e:\GIT\R5560\OscDual\C++App\VC++\bin\OscDual.exe
+  OscDual_EXAMPLE.vcxproj -> bin\OscDual.pdb (Full PDB)
